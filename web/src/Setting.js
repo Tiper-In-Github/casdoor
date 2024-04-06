@@ -163,6 +163,10 @@ export const OtherProviderInfo = {
       logo: `${StaticBaseUrl}/img/social_default.png`,
       url: "",
     },
+    "Quanm SMS": {
+      logo: "https://static.mp.quanmwl.com/static/images/favicon_dev.ico",
+      url: "https://dev.quanmwl.com/console",
+    },
   },
   Email: {
     "Default": {
@@ -1037,6 +1041,7 @@ export function getProviderTypeOptions(category) {
         {id: "SmsBao SMS", name: "SmsBao SMS"},
         {id: "SUBMAIL SMS", name: "SUBMAIL SMS"},
         {id: "Msg91 SMS", name: "Msg91 SMS"},
+        {id: "Quanm SMS", name: "Quanm SMS"},
       ]
     );
   } else if (category === "Storage") {

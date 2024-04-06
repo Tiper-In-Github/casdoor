@@ -926,6 +926,8 @@ gioui.org v0.0.0-20210308172011-57750fc8a0a6/go.mod h1:RSH6KIUZ0p2xy5zHDxgAM4zum
 git.sr.ht/~sbinet/gg v0.3.1/go.mod h1:KGYtlADtqsqANL9ueOFkWymvzUvLMQllU5Ixo+8v3pc=
 gitea.com/xorm/sqlfiddle v0.0.0-20180821085327-62ce714f951a h1:lSA0F4e9A2NcQSqGqTOXqu2aRi/XEQxDCBwM8yJtE6s=
 gitea.com/xorm/sqlfiddle v0.0.0-20180821085327-62ce714f951a/go.mod h1:EXuID2Zs0pAQhH8yz+DNjUbjppKQzKFAn28TMYPB6IU=
+gitee.com/chengdu-quanming-network/quanmsms-go v0.1.0 h1:2Ot4+ZGS5ykBhJKDoQ5noSID2Ls2YHnXEl5qRsEHlHk=
+gitee.com/chengdu-quanming-network/quanmsms-go v0.1.0/go.mod h1:oc0vKKw79jIOADGIzTjsyFV/624toSY81ptfpihmH18=
 github.com/Azure/azure-pipeline-go v0.2.3 h1:7U9HBg1JFK3jHl5qmo4CTZKFTVgMwdFHMVtCdfBE21U=
 github.com/Azure/azure-pipeline-go v0.2.3/go.mod h1:x841ezTBIMG6O3lAcl8ATHnsOPVl2bqk7S3ta6S6u4k=
 github.com/Azure/azure-storage-blob-go v0.15.0 h1:rXtgp8tN1p29GvpGgfJetavIG0V7OgcSXPpwp3tx6qk=
@@ -972,6 +974,8 @@ github.com/Shopify/sarama v1.19.0/go.mod h1:FVkBWblsNy7DGZRfXLU0O9RCGt5g3g3yEuWX
 github.com/Shopify/sarama v1.30.1/go.mod h1:hGgx05L/DiW8XYBXeJdKIN6V2QUy2H6JqME5VT1NLRw=
 github.com/Shopify/toxiproxy v2.1.4+incompatible/go.mod h1:OXgGpZ6Cli1/URJOF1DMxUHB2q5Ap20/P/eIdh4G0pI=
 github.com/Shopify/toxiproxy/v2 v2.1.6-0.20210914104332-15ea381dcdae/go.mod h1:/cvHQkZ1fst0EmZnA5dFtiQdWCNCFYzb+uE2vqVgvx0=
+github.com/Tiper-In-Github/go-sms-sender v1.0.1 h1:8iAN/Qoo35WMFv325FAu7QERicggV+NwnyEJVOQmLjU=
+github.com/Tiper-In-Github/go-sms-sender v1.0.1/go.mod h1:qSy/1r0uRT3T4Siy3yNa+vcPcU9YOZRDPU+WU4ye1QQ=
 github.com/VividCortex/gohistogram v1.0.0/go.mod h1:Pf5mBqqDxYaXu3hDrrU+w6nw50o/4+TcAqDqk/vUH7g=
 github.com/afex/hystrix-go v0.0.0-20180502004556-fa1af6a1f4f5/go.mod h1:SkGFH1ia65gfNATL8TAiHDNxPzPdmEL5uirI2Uyuz6c=
 github.com/ajstarks/deck v0.0.0-20200831202436-30c9fc6549a9/go.mod h1:JynElWSGnm/4RlzPXRlREEwqTHAN3T56Bv2ITsFT3gY=
@@ -1083,8 +1087,6 @@ github.com/casbin/casbin/v2 v2.77.2 h1:yQinn/w9x8AswiwqwtrXz93VU48R1aYTXdHEx4RI3
 github.com/casbin/casbin/v2 v2.77.2/go.mod h1:mzGx0hYW9/ksOSpw3wNjk3NRAroq5VMFYUQ6G43iGPk=
 github.com/casdoor/go-reddit/v2 v2.1.0 h1:kIbfdJ7AA7H0uTQ8s0q4GGZqSS5V9wVE74RrXyD9XPs=
 github.com/casdoor/go-reddit/v2 v2.1.0/go.mod h1:eagkvwlZ4Hcsuc/uQsLHYEulz5jN65SVSwV/AIE7zsc=
-github.com/casdoor/go-sms-sender v0.20.0 h1:yLbCakV04DzzehhgBklOrSeCFjMwpfKBeemz9b+Y8OM=
-github.com/casdoor/go-sms-sender v0.20.0/go.mod h1:cQs7qqohMJBgIVZebOCB8ko09naG1vzFJEH59VNIscs=
 github.com/casdoor/gomail/v2 v2.0.1 h1:J+FG6x80s9e5lBHUn8Sv0Y56mud34KiWih5YdmudR/w=
 github.com/casdoor/gomail/v2 v2.0.1/go.mod h1:VnGPslEAtpix5FjHisR/WKB1qvZDBaujbikxDe9d+2Q=
 github.com/casdoor/notify v0.45.0 h1:OlaFvcQFjGOgA4mRx07M8AH1gvb5xNo21mcqrVGlLgk=

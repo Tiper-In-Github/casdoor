@@ -4,12 +4,12 @@ go 1.16
 
 require (
 	github.com/Masterminds/squirrel v1.5.3
+	github.com/Tiper-In-Github/go-sms-sender v1.0.1
 	github.com/alexedwards/argon2id v0.0.0-20211130144151-3585854a6387
 	github.com/aws/aws-sdk-go v1.45.5
 	github.com/beego/beego v1.12.12
 	github.com/beevik/etree v1.1.0
 	github.com/casbin/casbin/v2 v2.77.2
-	github.com/casdoor/go-sms-sender v0.20.0
 	github.com/casdoor/gomail/v2 v2.0.1
 	github.com/casdoor/notify v0.45.0
 	github.com/casdoor/oss v1.6.0
