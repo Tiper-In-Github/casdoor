@@ -34,3 +34,8 @@ server
 
 # include helm-chart
 !manifests/casdoor
+
+# local imagefiles
+docker_images/
+# local note
+*.note
